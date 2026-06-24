@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Tue Jun 23 16:40:13 2026
+# Process ID: 32944
+# Current directory: C:/Users/RTX4060/project_1/project_1.runs/impl_1
+# Command line: vivado.exe -log system_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source system_top.tcl -notrace
+# Log file: C:/Users/RTX4060/project_1/project_1.runs/impl_1/system_top.vdi
+# Journal file: C:/Users/RTX4060/project_1/project_1.runs/impl_1\vivado.jou
+# Running On        :DESKTOP-V6VM6M9
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26200
+# Processor Detail  :AMD Ryzen 5 8600G w/ Radeon 760M Graphics      
+# CPU Frequency     :4350 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :33492 MB
+# Swap memory       :17179 MB
+# Total Virtual     :50672 MB
+# Available Virtual :20937 MB
+#-----------------------------------------------------------
+source system_top.tcl -notrace
