@@ -12,7 +12,6 @@ An FPGA-Based Real-Time Interactive Switch, LED, and Seven-Segment Display Contr
 
 ## 4. 專案資料夾結構
 [cite_start]本專案的架構規劃如下，僅上傳核心設計檔案以維持倉庫乾淨度 [cite: 69]：
-```text
 ├── src/                        # 實體硬體 Verilog 原始碼資料夾
 │   ├── system_top.v            # 系統頂層模組 (包含 MMIO 位址解碼與暫存器)
 │   ├── imem_dmem.v             # 內部整合式 64KB 記憶體模組 (內嵌保險程式碼)
